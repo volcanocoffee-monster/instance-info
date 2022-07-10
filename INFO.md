@@ -1,5 +1,5 @@
-
-Server rules, Terms of Service, Blocked Instances &Content
+# INFO.md
+## Server rules, Terms of Service, Blocked Instances &Content
 
 
 ### Server rules
